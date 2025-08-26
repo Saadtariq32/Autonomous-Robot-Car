@@ -1,0 +1,30 @@
+{
+    "View": {
+        "Header": {
+            "@value": "Select label and click the image to start"
+        },
+        "Image": {
+            "@name": "image",
+            "@value": "$image",
+            "@zoom": "true"
+        },
+        "PolygonLabels": {
+            "@name": "label",
+            "@toName": "image",
+            "@strokeWidth": "3",
+            "@pointSize": "small",
+            "@opacity": "0.9",
+            "@multiple": "true",
+            "Label": [
+                {
+                    "@value": "BlueLane",
+                    "@background": "#1e25f1"
+                },
+                {
+                    "@value": "RedLane",
+                    "@background": "#d30d0d"
+                }
+            ]
+        }
+    }
+}
