@@ -3,7 +3,7 @@ import socket
 import struct
 import time
 
-use_camera = True  # False to test with an image 
+use_camera = False  # False to test with an image 
 frame_width = 640
 
 WINDOWS_HOSTNAME = "127.0.0.1"
