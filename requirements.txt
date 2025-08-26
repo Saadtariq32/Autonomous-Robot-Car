@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+numpy
+Pillow
+flask
+websocket-client
+joblib
+pandas
+urllib3
