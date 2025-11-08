@@ -34,3 +34,4 @@ These models collectively determine movement decisions that are executed by the 
 6. A final movement command (direction + velocity) is sent to the ESP32.  
 7. ESP32 controls motors → vehicle drives autonomously.  
 
+![Robot Car](https://github.com/user-attachments/assets/e4f56a5a-24dc-4fba-8c33-c238ae73571b)
